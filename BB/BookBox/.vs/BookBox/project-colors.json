@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1836c2ec-859b-4e49-b581-46f6f45af15e": {
+      "ProjectGuid": "1836c2ec-859b-4e49-b581-46f6f45af15e",
+      "DisplayName": "BookBox",
+      "ColorIndex": 0
+    },
+    "a84d7fd6-1329-4d0c-af48-17efb2b99a7b": {
+      "ProjectGuid": "a84d7fd6-1329-4d0c-af48-17efb2b99a7b",
+      "DisplayName": "BookBoxConsoleApp",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e6fc4bc0-032a-4b4b-ad03-2e4f38f93bcb": {
+      "ProjectGuid": "e6fc4bc0-032a-4b4b-ad03-2e4f38f93bcb",
+      "DisplayName": "BookBoxFormsApp",
+      "ColorIndex": 2
+    },
+    "5b026c0c-8813-4b49-8fc1-beb43fedd9df": {
+      "ProjectGuid": "5b026c0c-8813-4b49-8fc1-beb43fedd9df",
+      "DisplayName": "SignUpDemo",
+      "ColorIndex": 3
+    },
+    "d68aba3d-d9fa-4db1-963c-9c835b115202": {
+      "ProjectGuid": "d68aba3d-d9fa-4db1-963c-9c835b115202",
+      "DisplayName": "BookBoxWindowsFormApp",
+      "ColorIndex": 4
+    },
+    "6b2ffecc-8175-41a4-a741-ffa2c2d74175": {
+      "ProjectGuid": "6b2ffecc-8175-41a4-a741-ffa2c2d74175",
+      "DisplayName": "BookBoxConsoleApp",
+      "ColorIndex": 5
+    },
+    "1a21b3ee-70c2-41e6-ba15-fcf7821c4df9": {
+      "ProjectGuid": "1a21b3ee-70c2-41e6-ba15-fcf7821c4df9",
+      "DisplayName": "BookBoxFormApp",
+      "ColorIndex": 6
+    },
+    "8d10c509-8fb8-46f0-b4e7-adee3def80b4": {
+      "ProjectGuid": "8d10c509-8fb8-46f0-b4e7-adee3def80b4",
+      "DisplayName": "BookTest",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}
